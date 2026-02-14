@@ -13,7 +13,7 @@ A*cat*meow
 > - Revenue was off the chart.
 <https://www.markdownguide.org>
 I love supporting the **[Click Here](https://eff.org)**.
-[1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle
+[1] https://en.wikipedia.org/wiki/Hobbit#Lifestyle
 [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle "Hobbit lifestyles"
 [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle 'Hobbit lifestyles'
 [1]: https://en.wikipedia.org/wiki/Hobbit#Lifestyle (Hobbit lifestyles)
