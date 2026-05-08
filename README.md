@@ -1,6 +1,1 @@
-- [ ] Intro Yo Python
-- [ ] Intro Yo Python
-- [ ] Intro Yo Python
-- [ ] Intro Yo Python
-- [ ] Intro Yo Python
-- 
+- [ ] Intro To Python
